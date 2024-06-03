@@ -3,7 +3,7 @@
 Deployed link :- https://nimble-tanuki-fe8132.netlify.app/
 
 Team Members :-
-1. Arsh Goel
+1. Harsh raj
 2. Pradyut Singha
 3. Simant Gautam
 4. Arun Tiwari
